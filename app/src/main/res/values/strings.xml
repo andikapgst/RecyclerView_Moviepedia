@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Moviepedia</string>
+
+    <string name="title">Judul Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="release">Tahun rilis:</string>
+    <string name="genre">Genre:</string>
+    <string name="director">Sutradara:</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="about">About</string>
+    <string name="share">Bagikan</string>
+    <string name="search">Pencarian</string>
+    <string name="profile_name">Andika Pangestu</string>
+    <string name="email">andika.pgst20@gmail.com</string>
+
+    <string-array name="film_director">
+        <item>The Russo Brothers</item>
+        <item>Christopher Nolan</item>
+        <item>Rob Cohen</item>
+        <item>Christopher Nolan</item>
+        <item>Jon Watts</item>
+        <item>James Wan</item>
+        <item>Rawson Marshall Thurber</item>
+        <item>Christopher McQuarrie</item>
+        <item>Ruben Fleischer</item>
+        <item>Eiichiro Hasumi</item>
+    </string-array>
+
+    <string-array name="film_genre">
+        <item>Action</item>
+        <item>Sci-Fi, Adventure</item>
+        <item>Action, Drama</item>
+        <item>Thriller, Drama</item>
+        <item>Action, Adventure</item>
+        <item>Horror, Thriller</item>
+        <item>Drama, Comedy</item>
+        <item>Action, Adventure</item>
+        <item>Action, Adventure</item>
+        <item>Action, Adventure</item>
+    </string-array>
+
+    <string-array name="data_name">
+        <item>Avengers: Endgame</item>
+        <item>Interstellar</item>
+        <item>The Fate of The Furious</item>
+        <item>Oppenheimer</item>
+        <item>Spiderman: No Way Home</item>
+        <item>The Conjuring 2</item>
+        <item>We\'re The Millers</item>
+        <item>Mission: Impossible - Fallout</item>
+        <item>Venom</item>
+        <item>Resident Evil: Dead Island</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>2019</item>
+        <item>2014</item>
+        <item>2017</item>
+        <item>2023</item>
+        <item>2021</item>
+        <item>2016</item>
+        <item>2013</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2023</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Setelah peristiwa tragis di mana Thanos berhasil melenyapkan setengah populasi alam semesta, para Avengers yang tersisa termasuk Iron Man, Captain America, Thor, Black Widow, Hawkeye, dan yang lainnya telah berduka dan berusaha mencari cara untuk membatalkan tindakan Thanos. \n\nDengan semangat pantang menyerah, mereka menyusun rencana berani untuk membalikkan keadaan dan mengembalikan semua yang telah hilang serta menghentikan ancaman Thanos sekali dan untuk selamanya. </item>
+        <item>Di masa depan yang tidak jauh, Bumi sedang menghadapi krisis pangan dan lingkungan yang parah. Cooper, seorang mantan pilot pesawat uji coba yang kini menjadi petani, menemukan bukti bahwa sebuah lubang cacing telah terbentuk di dekat Saturnus, menawarkan kemungkinan untuk menjelajahi galaksi lain. Cooper terpilih untuk memimpin misi interstellar bersama tim astronot lainnya. Mereka harus melewati lubang cacing dan menjelajahi beberapa planet yang mungkin dapat dihuni. \n\nSelama perjalanan, mereka menghadapi berbagai tantangan, termasuk gravitasi ekstrem, tantangan psikologis, dan bahkan pertemuan dengan makhluk asing. Dalam perjalanan mereka, Cooper juga berusaha mempertahankan hubungan dengan anak-anaknya, Murph dan Tom, yang tinggal di Bumi. Melalui komunikasi yang terbatas, Cooper mencoba memberikan harapan dan dukungan kepada keluarganya, sementara juga menghadapi dilema moral dan filosofis tentang pengorbanan pribadi demi kebaikan umat manusia.</item>
+        <item>Menceritakan tentang sekelompok pembalap jalanan di Los Angeles. Dominic Toretto, pemimpin kelompok ini, adalah seorang pembalap ulung yang sangat dihormati di kalangannya. \n\nKetika Brian O\'Conner, seorang polisi undercover yang menyamar sebagai pembalap jalanan, bergabung dengan kelompok Toretto, terjadi konflik antara persahabatan dan tugas. Brian harus memilih antara menangkap Toretto dan teman-temannya atau mempertahankan ikatan bersama teman-temannya yang telah terjalin.</item>
+        <item>Mengisahkan tentang kehidupan J. Robert Oppenheimer, seorang fisikawan teoritis Amerika yang sering disebut sebagai "ayah bom atom". Film ini menyoroti perannya yang krusial dalam Proyek Manhattan, sebuah proyek rahasia selama Perang Dunia II yang bertujuan mengembangkan senjata nuklir pertama di dunia. \n\nNamun, Oppenheimer harus menghadapi dilema moral yang berat saat ia menyadari dampak kekuatan dahsyat dari senjata yang telah diciptakannya setelah digunakan tentara Amerika Serikat untuk membalaskan kerugian kepada Jepang.</item>
+        <item>Peter Parker merasa putus asa setelah identitasnya sebagai Spider-Man dibocorkan oleh Mysterio. Hal ini menyebabkan kekacauan dan mengancam keselamatan orang-orang yang dicintainya. Peter meminta bantuan Doctor Strange untuk menghapus ingatan semua orang tentang identitasnya. Namun, sebuah mantra yang salah justru menyebabkan multiverse terbuka, memungkinkan musuh-musuh Spider-Man dari berbagai realitas untuk masuk ke dunia Peter. \n\nPeter harus menghadapi musuh-musuh lamanya seperti Doctor Octopus, Electro, Sandman, Lizard, dan Green Goblin, yang semuanya datang dari realitas alternatif. Dengan bantuan teman-temannya, Ned Leeds dan MJ, Peter berusaha menghentikan para penjahat dan menutup multiverse sebelum kerusakan yang lebih besar terjadi.</item>
+        <item>Ed dan Lorraine Warren, pasangan paranormal investigator terkenal, dihubungi oleh keluarga Hodgson yang terganggu oleh aktivitas paranormal di rumah mereka di Enfield. Keluarga Hodgson, terutama anak-anaknya, mengaku melihat hantu dan mengalami kejadian aneh seperti benda-benda yang bergerak sendiri dan suara-suara misterius. \n\nEd dan Lorraine datang ke Enfield untuk menyelidiki kasus tersebut. Mereka menemukan bahwa rumah Hodgson dihantui oleh entitas jahat yang kuat. Dengan bantuan seorang pendeta lokal, Ed dan Lorraine berusaha mengusir hantu tersebut dan membantu keluarga Hodgson kembali hidup normal.</item>
+        <item>David Brenner, seorang pengedar narkoba yang kesepian, ditugaskan untuk menyelundupkan sejumlah besar marijuana dari Meksiko ke Amerika Serikat. Untuk menghindari kecurigaan, ia harus menyamar sebagai kepala keluarga. David kemudian merekrut seorang stripper, seorang remaja nakal, dan seorang anak kecil yang bermasalah untuk berperan sebagai istri dan anak-anaknya. \n\nKeluarga palsu ini melakukan perjalanan lintas negara, menghadapi berbagai rintangan dan petualangan lucu di sepanjang jalan. Mereka harus berurusan dengan polisi, geng kriminal, dan bahkan satu sama lain saat mereka berusaha menyelesaikan misi mereka.</item>
+        <item>Ethan Hunt dan tim IMF-nya ditugaskan untuk menghentikan Solomon, seorang teroris yang berusaha mendapatkan senjata nuklir. Solomon telah merekrut anggota IMF yang telah mengkhianati Ethan di masa lalu. \n\nEthan dan timnya harus berpacu melawan waktu untuk mencegah Solomon mendapatkan senjata nuklir dan menyelamatkan dunia dari kehancuran. Mereka menghadapi berbagai tantangan, termasuk pertarungan sengit dengan mantan rekan tim, mengejar petunjuk di seluruh dunia, dan menghindari jebakan berbahaya.</item>
+        <item>Eddie Brock, seorang jurnalis investigasi, sedang menyelidiki Life Foundation, sebuah perusahaan bioteknologi yang sedang melakukan eksperimen berbahaya dengan makhluk luar angkasa. Selama penyelidikannya, Eddie terkena simbion Venom, sebuah makhluk alien yang mampu memberikan kekuatan luar biasa kepada tuan rumah manusia. \n\nVenom memberikan kekuatan luar biasa kepada Eddie, seperti kekuatan super, kemampuan regenerasi, dan kemampuan merubah bentuk. Namun, Venom juga memiliki sifat yang berbahaya dan seringkali bertentangan dengan keinginan Eddie. Eddie harus belajar untuk mengendalikan Venom dan menggunakan kekuatannya untuk melawan kejahatan. Dia juga harus menghadapi konflik internal antara dirinya dan Venom, yang seringkali berselisih paham tentang cara terbaik untuk menggunakan kekuatan mereka.</item>
+        <item>Leon S. Kennedy ditugaskan untuk menyelamatkan seorang gadis muda yang diculik dari sebuah pulau misterius. Chris Redfield sedang menyelidiki wabah zombie di pulau yang sama. Sementara itu, Jill Valentine sedang mencari obat untuk virus zombie. \n\nKetiga agen khusus ini akhirnya bertemu di pulau tersebut dan harus bekerja sama untuk menghentikan wabah zombie sebelum menyebar ke seluruh dunia. Mereka menghadapi berbagai tantangan, termasuk melawan zombie, menghindari jebakan, dan mengungkap misteri di balik wabah tersebut.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/endgame</item>
+        <item>@drawable/interstellar</item>
+        <item>@drawable/f8</item>
+        <item>@drawable/oppenheimer</item>
+        <item>@drawable/spiderman</item>
+        <item>@drawable/conjuring</item>
+        <item>@drawable/millers</item>
+        <item>@drawable/fallout</item>
+        <item>@drawable/venom</item>
+        <item>@drawable/re_death_island</item>
+    </integer-array>
+</resources>
